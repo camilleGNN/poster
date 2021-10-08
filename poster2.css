@@ -1,0 +1,379 @@
+body {
+    background-image: url('https://images.metmuseum.org/CRDImages/as/original/DP-16218-025.jpg');no-repeat center center;
+    background-color: #black; 
+    background-size: cover;
+    ackground-position: center;
+    background-repeat: no-repeat;
+    length:  100% ;
+} 
+
+.paragraph2{
+  margin-top: 2345px;
+  margin-left: 800px;
+  position: absolute;
+  font-family: avenir;
+  color: white;
+  font-size: 15px;
+}
+
+.paragraph3{ 
+  margin-top: 500 px;
+  margin-left: 600px;
+  color: white;
+  font-family: avenir;
+  position:  relative;
+  tont-size: 15px;
+}
+
+.paragraph4{
+  margin-top: 280px;
+  margin-left: -440px;
+  color: white;
+  font-size: 15px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.paragraph5{
+  margin-top: 280px;
+  margin-left: 100px;
+  color: white;
+  font-size: 25px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.paragraph6{
+  margin-top: 50px;
+  margin-left: 150px;
+  color: white;
+  font-size: 25px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.paragraph7{
+  margin-top: 50px;
+  margin-left: 100px;
+  color: white;
+  font-size: 25px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.paragraph8{
+  margin-top: 250px;
+  margin-left: -350px;
+  color: white;
+  font-size: 15px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.paragraph9{
+  margin-top: -335px;
+  margin-left: 600px;
+  color: white;
+  font-size: 15px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.Hōzōbō{
+ margin-top: -1650px;
+  margin-left: 250px;
+  color: white;
+  font-size: 75px;
+  font-family: avenir;
+  position:  relative;
+}
+
+.Shinkai{
+  margin-top: -250px;
+  margin-left: 20px;
+  color: white;
+  font-size: 75px;
+  font-family: avenir;
+  position:  relative;
+
+}
+/* this is for dreaming -----------------------------------------*/
+/* this is for d -----------------------------------------*/
+.d-stroke {
+  color: white;
+  position: absolute;
+  margin-left: 135px;
+  margin-top: 1px;
+  width: 10px;
+  height: 200px;
+  background-color: currentColor;
+}
+
+.d-circle {
+  color: white;
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 65px;
+  width: 120px;
+  height: 120px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+/* this is for r -----------------------------------------*/
+
+.r-stroke{
+  color: white;
+  position: absolute;
+  margin-left: 175px;
+  margin-top: 80px;
+  width: 10px;
+  height: 120px;
+  background-color: currentColor;
+}
+
+/* r-round solution from cssicon.space with altered attributes */
+
+.r-round{
+  colour: white;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 77px;
+  width: 140px;
+  height: 220px;
+  border-radius: 50%;
+  border-bottom: solid 10px transparent;
+  border-top: solid 10px white;
+  border-left: solid 10px transparent;
+  border-right: solid 10px transparent;
+}
+
+/* this is for e -----------------------------------------*/
+
+.e-circle {
+  color: white;
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 70px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border-top: solid 10px currentColor;
+  border-bottom: solid 10px currentColor;
+  border-left: solid 10px transparent;
+  border-right: solid 10px currentColor;
+  transform: rotate(180deg);
+}
+
+.e-stroke {
+  color: white;
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 120px;
+  width: 110px;
+  height: 10px;
+  background-color: currentColor;
+}
+
+/* this is for a -----------------------------------------*/
+.letter-a-outer-circle {
+  color: white;
+  position: absolute;
+  margin-left: 430px;
+  margin-top: 65px;
+  width: 120px;
+  height: 120px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+.a-stroke {
+  color: white;
+  position: absolute;
+  margin-left: 560px;
+  margin-top: 80px;
+  width: 10px;
+  height: 120px;
+  background-color: currentColor;
+}
+
+/* this is for m -----------------------------------------*/
+.m-left-stroke{
+  color: white;
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 80px;
+  width: 10px;
+  height: 100px;
+  background-color: currentColor;
+}
+
+.m-curve-1{
+  color: white;
+  position: absolute;
+  margin-left: 595px;
+  margin-top: 75px;
+  width: 120px;
+  height: 100px;
+  border-radius: 100px 0 0 100px;
+  border-left: solid 10px currentColor;
+  border-top: solid 10px currentColor;
+  border-bottom: solid 10px currentColor;
+  transform: rotate(90deg);
+}
+
+.m-curve-2{
+  color: white;
+  position: absolute;
+  margin-left: 670px;
+  margin-top: 75px;
+  width: 120px;
+  height: 100px;
+  border-radius: 100px 0 0 100px;
+  border-left: solid 10px currentColor;
+  border-top: solid 10px currentColor;
+  border-bottom: solid 10px currentColor;
+  transform: rotate(90deg);
+}
+
+/* this is for i -----------------------------------------*/
+.i-dot{
+  colour:  white;
+  position: absolute;
+  left: 830px;
+  top: 20px;
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.i-stroke{
+  color: white;
+  position: absolute;
+  margin-left: 825px;
+  margin-top: 80px;
+  width: 10px;
+  height: 120px;
+  background-color: currentColor;
+}
+
+/* this is for n -----------------------------------------*/
+.n-stroke{
+  color: white;
+  position: absolute;
+  margin-left: 865px;
+  margin-top: 80px;
+  width: 10px;
+  height: 120px;
+  background-color: currentColor;
+  }
+
+.n-curve{
+  color: white;
+  position: absolute;
+  margin-left: 860px;
+  margin-top: 75px;
+  width: 120px;
+  height: 100px;
+  border-radius: 100px 0 0 100px;
+  border-left: solid 10px currentColor;
+  border-top: solid 10px currentColor;
+  border-bottom: solid 10px currentColor;
+  transform: rotate(90deg);
+}
+/* this is for g -----------------------------------------*/
+.g-circle{
+  color: white;
+  position: absolute;
+  margin-left: 1000px;
+  margin-top: 60px;
+  width: 120px;
+  height: 120px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+.g-stroke{
+  color: white;
+  position: absolute;
+  margin-left: 1130px;
+  margin-top: 70px;
+  width: 10px;
+  height: 165px;
+  background-color: currentColor;
+}
+
+.g-semi-circle{
+  color: white;
+  position: absolute;
+  margin-left: 1038px;
+  margin-top: 195px;
+  width: 60px;
+  height: 115px;
+  border-radius: 100px 0 0 100px;
+  border-left: solid 10px currentColor;
+  border-top: solid 10px currentColor;
+  border-bottom: solid 10px currentColor;
+  transform: rotate(270deg);
+}
+
+
+/* this is for c -----------------------------------------*/
+.c-circle {
+  color: white;
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 270px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border-top: solid 10px currentColor;
+  border-bottom: solid 10px currentColor;
+  border-left: solid 10px transparent;
+  border-right: solid 10px currentColor;
+  transform: rotate(180deg);
+}
+
+/* this is for a2 -----------------------------------------*/
+.letter-a-outer-circle2 {
+  color: white;
+  position: absolute;
+  margin-left: 155px;
+  margin-top: 270px;
+  width: 120px;
+  height: 120px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+.a-stroke2 {
+  color: white;
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 290px;
+  width: 10px;
+  height: 120px;
+  background-color: currentColor;
+}
+/* this is for t -----------------------------------------*/
+.t-stroke{
+color: white;
+  position: absolute;
+  margin-left: 350px;
+  margin-top: 230px;
+  width: 10px;
+  height: 180px;
+  background-color: currentColor;
+  }
+
+  .t-horizontal-stroke{
+  color: white;
+  position: absolute;
+  margin-left: 325px;
+  margin-top: 270px;
+  width: 60px;
+  height: 10px;
+  background-color: currentColor;
+  }
+/* this is for text -----------------------------------------*/
